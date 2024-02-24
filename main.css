@@ -17,3 +17,19 @@ a {
 strong {
   color: #fff;
 }
+
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style: none;
+}
+
+article {
+  background-color: #5a98f2;
+}
+
+footer {
+  background-color: #5a98f2;
+}
